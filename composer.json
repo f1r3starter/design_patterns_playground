@@ -1,0 +1,13 @@
+{
+  "name": "f1r3starter/design_patterns",
+  "description": "design_patterns",
+  "type": "project",
+  "require": {
+    "f1r3starter/brackets": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Application\\" : "src"
+    }
+  }
+}
